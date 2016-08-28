@@ -1,0 +1,7 @@
+composer.phar
+
+build/
+vendor/
+
+# Ignore NetBeans project
+/nbproject/
